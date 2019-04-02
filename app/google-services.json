@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "400078848677",
+    "firebase_url": "https://phocafe-be388.firebaseio.com",
+    "project_id": "phocafe-be388",
+    "storage_bucket": "phocafe-be388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400078848677:android:535599e7c735f215",
+        "android_client_info": {
+          "package_name": "com.photon.phocafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400078848677-pres6l1kp5ut40d85i1p1a0nc89d6arq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.photon.phocafe",
+            "certificate_hash": "cf08683e6185e44d58e3ca802f18141a2f5bb1b7"
+          }
+        },
+        {
+          "client_id": "400078848677-1aj2tgl93ktboec33o4okmnnamb4eu0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsfk9HZGHClOXdPs0sbM9qDbk0y2piaZI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "400078848677-1aj2tgl93ktboec33o4okmnnamb4eu0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

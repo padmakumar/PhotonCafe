@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Types of food I could think of in 5 minutes -->
+    <string-array name="categories">
+        <item>@string/value_any_category</item>
+
+        <item>Brunch</item>
+        <item>Hot Drinks</item>
+        <item>Cold Drinks</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>BreakFast</item>
+        <item>Noodles</item>
+        <item>Snacks</item>
+        <item>Juice</item>
+        <item>Milk Shake</item>
+    </string-array>
+    ite
+
+    <!-- 50 most populous cities in the US -->
+    <string-array name="cities">
+        <item>@string/value_any_city</item>
+        <item>Bangalore</item>
+        <item>Chennai</item>
+        <item>Chicago</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Deerfieldre</item>
+        <item>Jakarta</item>
+        <item>Mauritiuste</item>
+        <item>New York</item>
+        <item>Paris</item>
+    </string-array>
+
+    <!-- Price filters -->
+    <string-array name="prices">
+        <item>@string/value_any_price</item>
+        <item>@string/price_1</item>
+        <item>@string/price_2</item>
+        <item>@string/price_3</item>
+    </string-array>
+
+    <!-- Ways you can sort restaurants -->
+    <string-array name="sort_by">
+        <item>@string/sort_by_rating</item>
+        <item>@string/sort_by_popularity</item>
+        <item>@string/sort_by_price</item>
+    </string-array>
+</resources>
