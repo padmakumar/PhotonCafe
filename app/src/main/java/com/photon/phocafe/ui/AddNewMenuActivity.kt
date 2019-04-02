@@ -187,7 +187,7 @@ class AddNewMenuActivity : AppCompatActivity(), EasyPermissions.PermissionCallba
     private fun clearfileds() {
         itemName.text.clear()
         itemPrice.text.clear()
-        selectImage.setImageResource(R.drawable.ic_photon)
+        selectImage.setImageResource(R.drawable.ic_logo)
     }
 
     /**
